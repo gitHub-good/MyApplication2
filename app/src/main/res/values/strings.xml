@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="Button">确定</string>
+    <string name="Button01">取消</string>
 </resources>
