@@ -80,4 +80,14 @@
 
     </LinearLayout>
 
+    <TextView
+        android:layout_width="121dp"
+        android:layout_height="wrap_content"
+        android:text="@string/textView"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="132dp"
+        tools:layout_editor_absoluteY="374dp" />
+
 </android.support.constraint.ConstraintLayout>
